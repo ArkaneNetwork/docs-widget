@@ -5,8 +5,8 @@
 ## 📦 Web3 Provider
 
 * [Getting Started](web3-provider/getting-started.md)
-* [Switching Blockchain](web3-provider/switching-blockchain.md)
 * [Power of the Widget](web3-provider/extra-information.md)
+* [Switching Blockchain](web3-provider/switching-blockchain.md)
 
 ## 📦 Widget
 
